@@ -10,3 +10,4 @@ Python library to make calculation with bricks easier
 - create landscapes from perlin noise (similar to minecraft)
 - hollow-out objects
 - visualize (pyscript in monaco-editor on one side, threlte and the parts ldparts-library as preview on the other side, similar to https://brean.github.io/svelte-pyscript-pathfinding/)
+- connector types (TECHNIC-connectors are different from studs)
